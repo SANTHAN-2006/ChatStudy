@@ -75,7 +75,7 @@ Client-server chat applications are foundational to real-time communication over
 
 ## Program :
 
-## Client.py :
+## Server.py :
 
 ```python
 import socket
@@ -99,7 +99,7 @@ while True:
 
 ![image](https://github.com/user-attachments/assets/5c6dd195-1c7b-45a0-b7b7-e41f12814ea7)
 
-## Server.py :
+## Client.py :
 
 ```python
 import socket
